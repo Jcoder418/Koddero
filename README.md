@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oussama ED-DEROUACH</h1>
-<h3 align="center">A passionate Full Stack Software Engineer and International Consultant from Morocco</h3>
+<h1 align="center">Hi 👋, I'm ED-DEROUACH</h1>
+<h3 align="center">A passionate Full Stack Software Engineer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
