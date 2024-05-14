@@ -11,7 +11,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ED-DEROUACH"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ED-DEROUACH" /></a><a href="https://ko-fi.com/ED-DEROUACH"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ED-DEROUACH" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-derouach&show_icons=true&locale=en&layout=compact" alt="ed-derouach" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-derouach&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ed-derouach&show_icons=true&locale=en" alt="ed-derouach" /></p>
 
