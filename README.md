@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-derouach&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ed-derouach&show_icons=true&locale=en" alt="ed-derouach" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ed-derouach&" alt="ed-derouach" /></p>
