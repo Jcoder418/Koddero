@@ -1,14 +1,15 @@
 <h1 align="center">
   <a href="https://github.com/moticob">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&color=F700FF&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Moticob" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&center=true&vCenter=true&width=500&height=50&lines=<span style='color:#FF5733'>H</span><span style='color:#33FF57'>i</span> <span style='color:#5733FF'>👋</span>, <span style='color:#FF33A1'>I</span><span style='color:#33D4FF'>'m</span> <span style='color:#FFC300'>M</span><span style='color:#FF5733'>o</span><span style='color:#DAF7A6'>t</span><span style='color:#900C3F'>i</span><span style='color:#C70039'>c</span><span style='color:#581845'>o</span><span style='color:#FF5733'>b</span>" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center">
   <a href="https://github.com/moticob">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=F700FF&center=true&vCenter=true&width=500&height=50&lines=A+passionate+Backend+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&center=true&vCenter=true&width=500&height=50&lines=<span style='color:#33FF57'>A</span> <span style='color:#5733FF'>p</span><span style='color:#FF33A1'>a</span><span style='color:#33D4FF'>s</span><span style='color:#FFC300'>s</span><span style='color:#FF5733'>i</span><span style='color:#DAF7A6'>o</span><span style='color:#900C3F'>n</span><span style='color:#C70039'>a</span><span style='color:#581845'>t</span><span style='color:#FF5733'>e</span> <span style='color:#33FF57'>B</span><span style='color:#5733FF'>a</span><span style='color:#FF33A1'>c</span><span style='color:#33D4FF'>k</span><span style='color:#FFC300'>e</span><span style='color:#FF5733'>n</span><span style='color:#DAF7A6'>d</span> <span style='color:#900C3F'>d</span><span style='color:#C70039'>e</span><span style='color:#581845'>v</span><span style='color:#FF5733'>e</span><span style='color:#33FF57'>l</span><span style='color:#5733FF'>o</span><span style='color:#FF33A1'>p</span><span style='color:#33D4FF'>e</span><span style='color:#FFC300'>r</span>" alt="Typing SVG" />
   </a>
 </h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moticob&label=Profile%20views&color=0e75b6&style=flat" alt="moticob" /> </p>
