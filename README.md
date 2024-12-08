@@ -40,6 +40,10 @@ src="https://img.shields.io/github/followers/Koddero?logo=github&style=for-the-b
 
 <a href="https://github.com/Koddero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koddero&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+# Welcome to my GitHub profile!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Koddero.Koddero)
+![Profile views](https://komarev.com/ghpvc/?username=Koddero&color=blue)
 
 ## GitHub Statistics
 
