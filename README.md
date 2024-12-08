@@ -11,7 +11,7 @@
 </h3>
 
 
-* 🌍  I'm based in Morocco
+* 🌍  I'm based in Worldwide
 
 <a href="https://www.github.com/Koddero" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Koddero?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
