@@ -64,7 +64,7 @@
   <a href="https://github.com/Koddero" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/koddero/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/........../" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
@@ -75,25 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Koddero&show_icons=true&hide=prs&cache_seconds=86400&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=1c1917&border_color=444e59&border_radius=8" alt="GitHub Stats" />
 </p>
 
-## Badges
 
-<b>My GitHub Stats</b>
 
-<a href="https://github.com/Koddero">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koddero&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="GitHub Streak" />
-</a>
 
-<a href="http://www.github.com/Koddero">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Koddero&bg_color=1c1917&color=0891b2&line=6366f1&point=0891b2&area_color=1c1917&area=true&hide_border=true&radius=8" alt="GitHub Activity Graph" />
-</a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  <a href="https://github.com/Koddero/ds_malware" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Koddero&repo=ds_malware&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=1c1917&border_color=444e59&border_radius=8" alt="ds_malware" />
-  </a>
-  <a href="https://github.com/Koddero/new-datastructure" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Koddero&repo=new-datastructure&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=1c1917&border_color=444e59&border_radius=8" alt="new-datastructure" />
-  </a>
-</div>
