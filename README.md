@@ -41,20 +41,18 @@ src="https://img.shields.io/github/followers/Koddero?logo=github&style=for-the-b
 <a href="https://github.com/Koddero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koddero&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-# Bienvenue sur mon profil GitHub!
-
-## Statistiques de GitHub
+## GitHub Statistics
 
 ![Koddero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koddero&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-## Trophées de GitHub
+## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Koddero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Graphique d'activité de GitHub
+## GitHub Activity Graph
 
 [![Koddero's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koddero&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Statistiques de temps de codage (WakaTime)
+## Coding Time Statistics (WakaTime)
 
 [![wakatime](https://wakatime.com/badge/user/your-wakatime-username.svg)](https://wakatime.com/@your-wakatime-username)
